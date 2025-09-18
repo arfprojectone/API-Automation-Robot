@@ -4,11 +4,13 @@
 # Tech Stack
 1. Pyhton
 2. Robot Framework
-3. Implement General Keyword
-4. Implement General Variable
-5. Implement General Library
-6. Data Payload Json Schema
-7. Validation Json Schema
+
+# Implementation
+1. Implement General Keyword
+2. Implement General Variable
+3. Implement General Library
+4. Data Payload Json Schema
+5. Validation Json Schema
 
 Clone Repo
  - Open Terminal
